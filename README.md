@@ -1,8 +1,8 @@
 # Sizzle Rush Kitchen — make.fun bounty best-cooking-game-20261125-0137
 
 [![make.fun](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
-[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/Yu0112dwd/best-cooking-game-20261125-0137/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
-[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/Yu0112dwd/best-cooking-game-20261125-0137/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/Yu0112dwd/best-cooking-game-20261125/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/Yu0112dwd/best-cooking-game-20261125/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
 
 **Bounty:** "Make the best cooking game" (`best-cooking-game-20261125-0137`) — $250 total
 (1st $60, 2nd $40, 3rd $30, 4th $25, 5th $20, 6th–10th $15 each).
